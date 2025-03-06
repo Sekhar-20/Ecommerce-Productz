@@ -1,6 +1,6 @@
-# eCommerce Website
+## eCommerce Website
 
-I took a template from Webtheme and developed it into a Productz e-commerce website.
+I took a template from Webthemez and developed it into a Productz e-commerce website.
 
 In this project, I demonstrated in HTML, CSS, and Bootstrap.
 
